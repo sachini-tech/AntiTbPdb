@@ -4,6 +4,8 @@ Welcome to the official repository for AntiTbPdb, a comprehensive and manually c
 
 Database URL: http://webs.iiitd.edu.in/raghava/antitbpdb/
 
+ZENODO : https://doi.org/10.5281/zenodo.20067092
+
 ## Citation
 
 Usmani, S. S., Kumar, R., Kumar, V., Singh, S., & Raghava, G. P. S. (2018).
